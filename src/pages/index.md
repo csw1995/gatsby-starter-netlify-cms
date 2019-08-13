@@ -7,7 +7,7 @@ description: >-
   Share Every Piece of Wisdom
 ---
 
-## About Me
+## About me
 I'm Siwei Chen, a CS graduate student at Columbia University.
 
 ## About this website
